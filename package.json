@@ -55,6 +55,6 @@
     "react-native-web": "*"
   },
   "dependencies": {
-    "lottie-web": "github:blink-media-inc/lottie-web"
+    "lottie-web": "git+https://github.com/blink-media-inc/lottie-web"
   }
 }
